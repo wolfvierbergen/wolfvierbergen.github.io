@@ -1,13 +1,18 @@
 # Wolf Vierbergen
 
-<img src="profiel_foto.jpg" alt="Profile Photo" style="float: right; width: 200px; border-radius: 5px;">
+<div style="display: flex; flex-wrap: wrap; align-items: start; gap: 20px; margin-bottom: 30px;">
+    <div style="flex: 1; min-width: 300px;">
+        <p><strong>Date of birth:</strong> 07 Dec. 2002<br>
+        <strong>Living in:</strong> Leuven<br>
+        <strong>Phone:</strong> +32 468 21 51 05<br>
+        <strong>Email:</strong> vierbergen.wolf@gmail.com<br>
+        <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/wolf-vierbergen/">www.linkedin.com/in/wolf-vierbergen/</a></p>
+    </div>
+    <div style="width: 200px;">
+        <img src="profiel_foto.jpg" alt="Profile Photo" style="width: 200px; border-radius: 5px;">
+    </div>
+</div>
 
-
-**Date of birth:** 07 Dec. 2002  
-**Living in:** Leuven  
-**Phone:** +32 468 21 51 05  
-**Email:** vierbergen.wolf@gmail.com \
-[www.linkedin.com/in/wolf-vierbergen/](https://www.linkedin.com/in/wolf-vierbergen/)
 
 ## EDUCATION
 
