@@ -1,5 +1,6 @@
-
+**Note:** this is the original readme written by Merlijn Stoffels, he made the software in the [repository](https://github.com/merstoffe14/WP_Plantjes).
 # Scientific project: Automated watering system.
+
 
 For our course "Scientific project" we had to work out a system that automatically waters plants. While my colleague Wolf worked on the Mechanical side of the project, I developed the in-depth control interface (A website) on which the user is able to read out and set different parameters for each individual row of plants. 
 
