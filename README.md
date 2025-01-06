@@ -31,12 +31,12 @@ August 2024 - October 2024
 - Responsible for technical details of a more efficient air-cooling system.
 - Pitching the idea to a jury of potential international investors.
 
-### Lens Focusing system — Thermal camera adjustment
+### Lens Focusing system — Thermal camera adjustment: [link](/Portfolio-for-Github-pages/Focus-mechanism_readme)
 October 2022 - December 2022
 - Designed and built a lens focusing system for a thermal camera, featuring precise adjustment and absolute position control.
 - Utilised a stepper motor with belt drive and an Arduino for control.
 
-### Automated grow box — Building and implementation
+### Automated grow box — Building and implementation: [link](/Portfolio-for-Github-pages/Plant-growing_readme)
 October 2021 - June 2022
 - Developed a 4-story rack with integrated water plumbing and light distribution as part of a course at University of Antwerp.
 - Implemented automation using a Raspberry Pi, relay switches, and soil moisture sensors to control the system.
@@ -46,7 +46,7 @@ April 2019 - June 2021
 - Constructed a 3-axis CNC, utilising an Arduino and stepper motors.
 - Developed three iterations to improve stability and performance.
 
-### Wind Tunnel — Constructing and testing a wind tunnel
+### Wind Tunnel — Constructing and testing a wind tunnel: [link](/Portfolio-for-Github-pages/Windtunnel_readme)
 September 2019 - April 2020
 - Designed, built, and tested a wind tunnel.
 - Achieved the goal of creating and visualising laminar flow.
