@@ -34,4 +34,4 @@ Version History
 	•	V2 (12/2022): Belt drive 
 
 
-https://github.com/wolfvierbergen/Focus-mechanism
+[https://github.com/wolfvierbergen/Focus-mechanism](https://github.com/wolfvierbergen/Focus-mechanism)
