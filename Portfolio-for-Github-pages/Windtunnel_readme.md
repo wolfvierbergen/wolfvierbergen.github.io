@@ -110,4 +110,4 @@ Special thanks to:
 
 **Note**: For detailed technical specifications, experimental procedures, and complete results, please refer to the full thesis document.
 
-https://github.com/wolfvierbergen/windtunnelGIP
+[https://github.com/wolfvierbergen/windtunnelGIP](https://github.com/wolfvierbergen/windtunnelGIP)
